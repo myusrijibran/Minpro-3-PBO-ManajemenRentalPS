@@ -1,0 +1,10 @@
+controller\PSController.class
+model\Rental.class
+controller\Diskonable.class
+model\PSReguler.class
+controller\RentalController.class
+model\PSVIP.class
+view\MainView.class
+model\Console.class
+model\Pelanggan.class
+main\Main.class
